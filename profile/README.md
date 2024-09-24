@@ -17,8 +17,8 @@
 
 |                                     UI/UX                                      |                                     Frontend                                      |                                     Frontend                                      |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |      
-| <img src="" width=150px alt="전희주"/> | <img src="https://github.com/user-attachments/assets/ef656256-23fd-4ef7-8634-f55154b50697" width=150px alt="서유빈"/> | <img src="https://github.com/user-attachments/assets/a35946f1-ad91-4e8a-95dd-a6bec5d7bde9" width=150px alt="박채수"/> 
-| [@heeju](https://naver.com) |  [@alwubin](https://github.com/alwubin) |  [@Chasyuss](https://github.com/Chasyuss) |
+| <img src="https://github.com/user-attachments/assets/777d70d0-49ad-45ad-a656-20bb267f73bc" width=150px alt="전희주"/> | <img src="https://github.com/user-attachments/assets/ef656256-23fd-4ef7-8634-f55154b50697" width=150px alt="서유빈"/> | <img src="https://github.com/user-attachments/assets/a35946f1-ad91-4e8a-95dd-a6bec5d7bde9" width=150px alt="박채수"/> 
+| [@heeju](https://kindhearted-equinox-c38.notion.site/portfolio-35f4c7970522467e8526da9275c4c317?pvs=4) |  [@alwubin](https://github.com/alwubin) |  [@Chasyuss](https://github.com/Chasyuss) |
 
 
 |                                     Backend (팀 리더)                                      |                                         Backend                                            |                                         Backend                                           |                                          Backend                                            |                              
