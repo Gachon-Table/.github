@@ -15,14 +15,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Busts in Silhouette" width="25" height="25" /> 멤버
 
+|                                     UI/UX                                      |                                     Frontend                                      |                                     Frontend                                      |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |      
+| <img src="" width=150px alt="전희주"/> | <img src="https://github.com/user-attachments/assets/ef656256-23fd-4ef7-8634-f55154b50697" width=150px alt="서유빈"/> | <img src="https://github.com/user-attachments/assets/a35946f1-ad91-4e8a-95dd-a6bec5d7bde9" width=150px alt="박채수"/> 
+| [@heeju](https://naver.com) |  [@alwubin](https://github.com/alwubin) |  [@Chasyuss](https://github.com/Chasyuss) |
+
 
 |                                     Backend (팀 리더)                                      |                                         Backend                                            |                                         Backend                                           |                                          Backend                                            |                              
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | 
 | <img src="https://github.com/user-attachments/assets/99c64fc9-c0f9-4157-a830-11e8e808b641" width=150px alt="노정완"/> | <img src="https://github.com/user-attachments/assets/ad5b8aad-67c6-4ce4-b532-381ad08223a9" width=150px alt="이근표"/> | <img src="https://github.com/user-attachments/assets/465559f9-c55e-4f98-84c5-0a544ed29cba" width=150px alt="김예찬"/> | <img src="https://github.com/user-attachments/assets/6efefc90-5a56-439b-8c2b-32863cadc920" width=150px alt="이동훈"/> | 
 |                          [@jwnnoh](https://github.com/jwnnoh)                          |                           [@rootTiket](https://github.com/rootTiket)                           |                          [@yechan-kim](https://github.com/yechan-kim)                           |                           [@hoonyworld](https://github.com/hoonyworld)                            |    
 
-|                                     Frontend                                      |                                     Frontend                                      |
-| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |    
-| <img src="https://github.com/user-attachments/assets/ef656256-23fd-4ef7-8634-f55154b50697" width=150px alt="서유빈"/> | <img src="https://github.com/user-attachments/assets/a35946f1-ad91-4e8a-95dd-a6bec5d7bde9" width=150px alt="박채수"/> 
-| [@alwubin](https://github.com/alwubin) |  [@Chasyuss](https://github.com/Chasyuss) |
+
 
